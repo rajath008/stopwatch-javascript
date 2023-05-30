@@ -1,2 +1,2 @@
-# stopwatch-javascript
-Just an easy to implement stopwatch project i did for timepass...
+# Stopwatch-Project
+A simple stopwatch program using HTML CSS and JavaScript!
